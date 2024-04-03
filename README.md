@@ -3,3 +3,4 @@ Lambdas to send Amazon GuardDuty findings to slack - assumes an SSM parameter ha
 
 ## To do
 - Add error handling
+- Add PyTest fixtures
